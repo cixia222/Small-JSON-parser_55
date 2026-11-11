@@ -1,4 +1,5 @@
-# Small-JSON-parser（教学版）
+# Small-JSON-parser —— 手写解析器
+
 
 一个**为了让人读懂而写的 JSON 解析器**。
 
