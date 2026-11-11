@@ -13,7 +13,6 @@ authors = [{ name = "代思睿", email = "cixia222@users.noreply.github.com" }]
 keywords = ["json", "parser", "educational", "tokenizer", "recursive-descent"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Intended Audience :: Education",
     "Intended Audience :: Developers",
     "Topic :: Software Development :: Libraries",
