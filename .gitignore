@@ -1,0 +1,35 @@
+# Python 运行时
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 测试与覆盖率
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 打包产物
+*.whl
+
+# 课程提交物（不进 GitHub 仓库）
+开源文化运动-期末报告.docx
+开源文化运动-期末报告.pdf
+知识点与项目总结.docx
+知识点与项目总结.pdf
+提交清单.md
+bad.json
+tiny.json

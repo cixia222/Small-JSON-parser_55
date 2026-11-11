@@ -1,0 +1,15 @@
+{
+  "name": "Small-JSON-parser",
+  "version": "0.1.0",
+  "description": "一个为了让人读懂而写的 JSON 解析器",
+  "tags": ["json", "parser", "educational"],
+  "features": {
+    "parser": true,
+    "serializer": true,
+    "cli": true,
+    "trace": true
+  },
+  "stars": 0,
+  "null_field": null,
+  "numbers": [1, 2.5, 1e3, -17]
+}
